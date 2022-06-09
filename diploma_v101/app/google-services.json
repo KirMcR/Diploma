@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "675522946802",
+    "firebase_url": "https://trainprograms-fa1cc-default-rtdb.firebaseio.com",
+    "project_id": "trainprograms-fa1cc",
+    "storage_bucket": "trainprograms-fa1cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675522946802:android:6a05a1c3139bcf9841526b",
+        "android_client_info": {
+          "package_name": "com.kirmc.diploma_v101"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675522946802-tct31rauimfejogdstalelquo7hmcous.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuC_L2UWoUAGeeFQaVfUnE_zCOIQqvS-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675522946802-tct31rauimfejogdstalelquo7hmcous.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
